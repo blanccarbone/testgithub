@@ -1,5 +1,7 @@
 Ceci est juste un test de commit.
 
-Ajout numéro 1
+Ajout numÃ©ro 1
 
-Le fichier à été modifié une deuxième fois.
+Le fichier Ã  Ã©tÃ© modifiÃ© une deuxiÃ¨me fois.
+
+ModifiÃ© depuis github
