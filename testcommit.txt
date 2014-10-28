@@ -1,7 +1,7 @@
-Ceci est juste un test de commit.
+﻿Ceci est juste un test de commit.
 
 Ajout numéro 1
 
 Le fichier à été modifié une deuxième fois.
 
-Modifié depuis github
+Modifié depuis github et aussi depuis le local
